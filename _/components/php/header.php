@@ -1,10 +1,7 @@
 <div class="content row">
 	<div class="col-lg-12">
 		<header class="clearfix">
-			<section id="branding">
-			<a href="index.php"><img src="images/logo_maliki.png" alt="project logo"></a>	
-			</section><!-- branding -->
-			<section class="navbar navbar-default">
+			<section class="navbar navbar-inverse">
 				<ul class="nav navbar-nav">
 					<li><a href="index.php">الرئيسية</a></li>
 					<li><a href="about.php">حول الكتاب</a></li>

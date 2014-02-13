@@ -23,10 +23,19 @@
 
   </head>
   <body id="home">
+        <?php include "_/components/php/header.php"; ?>
+        
+        <div class="intro-header">
+            <div class="container">
+              <div class="row">
+                <div class="col-lg-12">
+                </div>
+              </div>
+            </div>
+        </div>
       <section class="container">
         <div class="content row">
-           <?php include "_/components/php/header.php"; ?>
-            <?php include "_/components/php/snippet-carousel.php"; ?>
+           
           <section class="main col col-lg-8">
 
           </section><!-- main -->
@@ -35,9 +44,10 @@
           </section><!-- sidebar -->
 
         </div><!-- content -->
-        <?php include "_/components/php/footer.php"; ?>
+        
       </section><!-- container -->
-
+      
+      <?php include "_/components/php/footer.php"; ?>
     <!-- scripts  -->
     <script src="_/js/jquery.js"></script>
     <script src="_/js/bootstrap.js"></script>

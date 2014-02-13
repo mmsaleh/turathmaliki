@@ -34,17 +34,14 @@
             </div>
         </div>
       <section class="container">
-        <div class="content row">
-           
-          <section class="main col col-lg-8">
+            <div class="content row">
+                <section class="main col col-lg-8">
 
-          </section><!-- main -->
-          <section class="sidebar col col-lg-4">
-            
-          </section><!-- sidebar -->
-
-        </div><!-- content -->
-        
+                </section><!-- main -->
+                <section class="sidebar col col-lg-4">
+              
+                </section><!-- sidebar -->
+          </div><!-- content -->
       </section><!-- container -->
       
       <?php include "_/components/php/footer.php"; ?>

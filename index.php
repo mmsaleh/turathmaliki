@@ -25,24 +25,95 @@
   <body id="home">
         <?php include "_/components/php/header.php"; ?>
         
-        <div class="intro-header">
-            <div class="container">
-              <div class="row">
-                <div class="col-lg-12">
-                </div>
-              </div>
-            </div>
-        </div>
-      <section class="container">
-            <div class="content row">
-                <section class="main col col-lg-8">
+         <div class="intro-header">
 
-                </section><!-- main -->
-                <section class="sidebar col col-lg-4">
-              
-                </section><!-- sidebar -->
-          </div><!-- content -->
-      </section><!-- container -->
+        <div class="container">
+
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="intro-message">
+                        <h1>التراث المالكي</h1>
+                        <h2>مشروع الكتاب الالكتروني</h2>
+                        <hr class="intro-divider">
+                        <button type="button" class="btn btn-default btn-lg">
+                          <span class="glyphicon glyphicon-chevron-down"></span>
+                      </button>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+        <!-- /.container -->
+
+    </div>
+    <!-- /.intro-header -->
+
+         <hr>
+       <!-- Marketing messaging and featurettes
+    ================================================== -->
+    <!-- Wrap the rest of the page in another container to center all the content. -->
+
+    <div class="container">
+
+      <!-- Three columns of text -->
+      <div class="row">
+        <div class="col-lg-4">
+          <img class="img-circle" src="images/bookicon.png" alt="book">
+          <h2>اقرأ الكتاب</h2>
+          <p>Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Praesent commodo cursus magna.</p>
+          <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+        </div><!-- /.col-lg-4 -->
+        <div class="col-lg-4">
+          <img class="img-circle" src="images/phonesicon.png" alt="headphones">
+          <h2>استمع إلى الصوتيات</h2>
+          <p>Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh.</p>
+          <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+        </div><!-- /.col-lg-4 -->
+        <div class="col-lg-4">
+          <img class="img-circle" src="images/quizicon.png" alt="notebook">
+          <h2>الرسومات التوضيحية</h2>
+          <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+          <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+        </div><!-- /.col-lg-4 -->
+      </div><!-- /.row -->
+
+      <hr>
+
+      <div class="row">
+        <div class="col-md-7">
+          <h2>التحقيق العلمي</h2>
+          <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
+        </div>
+        <div class="col-md-5">
+          <img class="img-responsive" src="images/poetryimg.jpg" alt="manuscript">
+        </div>
+      </div>
+
+      <hr>
+
+      <div class="row">
+        <div class="col-md-5">
+          <img class="img-responsive" src="images/ebook.jpg" alt="ebook">
+        </div>
+        <div class="col-md-7">
+          <h2>الوسائل الحديثة</h2>
+          <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
+        </div>
+      </div>
+
+      <hr>
+
+      <div class="row">
+        <div class="col-md-7">
+          <h2>مواكبة التطور</h2>
+          <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
+        </div>
+        <div class="col-md-5">
+          <img class="img-responsive" src="images/laptop.jpg" alt="laptop">
+        </div>
+      </div>
+
+      <hr>
       
       <?php include "_/components/php/footer.php"; ?>
     <!-- scripts  -->

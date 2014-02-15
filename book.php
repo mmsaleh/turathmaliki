@@ -27,7 +27,7 @@
       
       <section class="container">
       <div class="content row">
-        <section class="scrollspy clearfix col col-lg-4 hidden-sm">
+        <section class="scrollspy clearfix col col-md-4 hidden-sm">
             <ul class="nav list-group">
                   <li class="list-group-item"><a href="#introduction">المقدمة</a>
                       <ul>
@@ -85,7 +85,7 @@
                   </li>
             </ul> 
         </section><!-- scrollspy -->
-        <section class="bookchapters col col-lg-8" >
+        <section class="bookchapters col col-md-8" >
               <div class="chapter" id="introduction">
                         <section id="preface">
                             <?php include "_/components/php/preface.php"; ?>

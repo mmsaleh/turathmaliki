@@ -1,4 +1,4 @@
-<table>
+<table class="table table-bordered table-striped table-hover">
       <tr>
         <td>48</td>
         <td>اﻟْﺤُﻜْﻢُ ﻓﻲ اﻟﺸَّﺮْﻉِ: ﺧِﻄﺎﺏُ ﺭَﺑِّﻨﺎ</td>

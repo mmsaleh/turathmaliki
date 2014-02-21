@@ -15,7 +15,7 @@
           <div class="navbar-collapse collapse">
             <ul class="nav navbar-nav">
 	             <li><a href="index.php">الرئيسية</a></li>
-		<li><a href="about.php">حول الكتاب</a></li>
+		<li><a href="aboutproject.php">حول الكتاب</a></li>
 		<li><a href="book.php">المتن</a></li>
 		<li><a href="commentary.php" >الشرح</a></li>
 		<li><a href="audio.php">الصوتيات</a></li>

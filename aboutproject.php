@@ -58,23 +58,28 @@
                 <section class="sidebar col col-lg-4">
               <div class="row">
         <div>
-          <img class="img-circle" src="images/bookicon.png" alt="book">
-          <h2>اقرأ الكتاب</h2>
+          <a class="pull-left href="#"><img class="media" src="images/bookicon.png" alt="book"></a>
+          <div class="media-body">
+            <h4 class="media-heading">اقرأ الكتاب</h4>
           <p>Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod.</p>
-          <p><a class="btn btn-default" href="#" role="button">ابدأ &raquo;</a></p>
+          <p><a class="btn btn-default pull-right" href="commentary.php" role="button">ابدأ &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
         <div>
-          <img class="img-circle" src="images/phonesicon.png" alt="headphones">
-          <h2>استمع إلى الصوتيات</h2>
+          <a class="pull-left href="#"><img class="media" src="images/phonesicon.png" alt="headphones"></a>
+          <div class="media-body">
+            <h4 class="media-heading">استمع إلى الصوتيات</h4>
           <p>Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit.</p>
-          <p><a class="btn btn-default" href="#" role="button">ابدأ &raquo;</a></p>
-        </div><!-- /.col-lg-4 -->
+          <p><a class="btn btn-default pull-right" href="audio.php" role="button">ابدأ &raquo;</a></p>
+        </div>
+      </div><!-- /.col-lg-4 -->
         <div>
-          <img class="img-circle" src="images/quizicon.png" alt="notebook">
-          <h2>الرسومات التوضيحية</h2>
+          <a class="pull-left href="#"><img class="media-object" src="images/quizicon.png" alt="notebook"></a>
+          <div class="media-body">
+          <h4 class="media-heading">الرسومات التوضيحية</h4>
           <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam.</p>
-          <p><a class="btn btn-default" href="#" role="button">ابدأ &raquo;</a></p>
-        </div><!-- /.col-lg-4 -->
+          <p><a class="btn btn-default pull-right" href="extras.php" role="button">ابدأ &raquo;</a></p>
+        </div>
+      </div><!-- /.col-lg-4 -->
       </div><!-- /.row -->
                 </section><!-- sidebar -->
           </div><!-- content -->

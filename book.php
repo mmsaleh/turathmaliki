@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="_/css/bootstrap.css" rel="stylesheet">
     <link href="_/css/mystyles.css" rel="stylesheet">
+    <link rel="stylesheet" href="_/css/styles.css" />
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -136,11 +137,18 @@
     <script src="_/js/bootstrap.js"></script>
      <script src="_/js/myscripts.js"></script>
       <script src="_/js/jquery.fittext.js"></script>
+      <script src="_/js/jquery.ubaplayer.min.js"></script>
 
       <script type="text/javascript">
     $("#fittext1").fitText();
     $("#fittext2").fitText(1.2);
     $("#fittext3").fitText(1.1, { minFontSize: '12px', maxFontSize: '22px' });
   </script>
+  <script>
+    $(function(){
+        //basic config
+        $("#ubaplayer").ubaPlayer();
+    });
+</script>
   </body>
 </html>

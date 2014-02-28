@@ -28,7 +28,7 @@
       <section class="container">
       <div class="content row">
         
-        <section class="bookchapters col col-lg-8" >
+        <section class="bookchapters col col-lg-10" >
               <div class="chapter" id="introduction">
                         <section id="preface">
                             <?php include "_/components/php/preface-cm.php"; ?>
@@ -131,6 +131,36 @@
     <script src="_/js/jquery.js"></script>
     <script src="_/js/bootstrap.js"></script>
      <script src="_/js/myscripts.js"></script>
-
+     <script src="_/js/tooltipsy.min.js"></script>
+<!-- tooltipsy script-->
+<script>
+$('.hastip').tooltipsy({
+    offset: [-10, 0],
+    show: function (e, $el) {
+        $el.css({
+            'left': parseInt($el[0].style.left.replace(/[a-z]/g, '')) - 50 + 'px',
+            'opacity': '0.0',
+            'display': 'block'
+        }).animate({
+            'left': parseInt($el[0].style.left.replace(/[a-z]/g, '')) + 50 + 'px',
+            'opacity': '1.0'
+        }, 300);
+    },
+    hide: function (e, $el) {
+        $el.slideUp(400);
+    },
+    css: {
+        'padding': '10px',
+        'max-width': '400px',
+        'color': '#fff',
+        'background-color': 'rgba(0,0,0,0.7)',
+        'border': '1px solid #deca7e',
+        '-moz-box-shadow': '0 0 10px rgba(0, 0, 0, .5)',
+        '-webkit-box-shadow': '0 0 10px rgba(0, 0, 0, .5)',
+        'box-shadow': '0 0 10px rgba(0, 0, 0, .5)',
+        'text-shadow': 'none'
+    }
+});
+</script><!-- end tooltip-->
   </body>
 </html>

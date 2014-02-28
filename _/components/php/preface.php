@@ -1,4 +1,4 @@
-<table id="fittext3" class="table table-bordered table-striped table-hover">
+<table id="fittext3" class="table table-bordered table-striped table-hover table-responsive">
     <tr>
 		<td>1</td>
         <td>ﻳَﻘُﻮﻝُ ﻋَﺒْﺪُاﻟْﻮَاﺣِﺪِ اﺑْﻦُ ﻋَﺎﺷِﺮ</td>

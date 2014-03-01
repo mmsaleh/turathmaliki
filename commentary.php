@@ -29,7 +29,7 @@
       <section class="container">
       <div class="content row">
         
-        <section class="bookchapters col col-lg-8" >
+        <section class="bookchapters col col-xs-8" >
               <div class="chapter" id="introduction">
                         <section id="preface">
                             <?php include "_/components/php/preface-cm.php"; ?>
@@ -123,7 +123,7 @@
                           </section>
                   </div>
         </section><!-- main -->
-         <section class="col col-sm-4">
+         <section class="col col-xs-4">
        <?php include "_/components/php/media-cm.php"; ?>   
 
         </section>
@@ -140,7 +140,7 @@
 <!-- tooltipsy script-->
 <script>
 $('.hastip').tooltipsy({
-    offset: [-10, 0],
+    offset: [0, -1],
     show: function (e, $el) {
         $el.css({
             'left': parseInt($el[0].style.left.replace(/[a-z]/g, '')) - 50 + 'px',

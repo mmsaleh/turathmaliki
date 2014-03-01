@@ -42,7 +42,7 @@
                               <li><a tabindex="-1" href="#chapter6">كتاب الزهد</a></li>
                             </ul> 
                     </li>
-          		<li><a href="audio.php">الصوتيات</a></li>
+          		<li><a href="video.php">المرئيات</a></li>
           		<li><a href="extras.php">المزيد</a></li>
                 </ul>
           </div><!--/.nav-collapse -->

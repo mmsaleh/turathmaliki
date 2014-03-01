@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="_/css/bootstrap.css" rel="stylesheet">
     <link href="_/css/mystyles.css" rel="stylesheet">
+      <link rel="stylesheet" href="_/css/styles.css" />
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -28,7 +29,7 @@
       <section class="container">
       <div class="content row">
         
-        <section class="bookchapters col col-lg-10" >
+        <section class="bookchapters col col-lg-8" >
               <div class="chapter" id="introduction">
                         <section id="preface">
                             <?php include "_/components/php/preface-cm.php"; ?>
@@ -122,7 +123,10 @@
                           </section>
                   </div>
         </section><!-- main -->
+         <section class="col col-sm-4">
+       <?php include "_/components/php/media-cm.php"; ?>   
 
+        </section>
       </div><!-- content -->
     </section><!-- container --> 
       
@@ -132,6 +136,7 @@
     <script src="_/js/bootstrap.js"></script>
      <script src="_/js/myscripts.js"></script>
      <script src="_/js/tooltipsy.min.js"></script>
+      <script src="_/js/jquery.ubaplayer.min.js"></script>
 <!-- tooltipsy script-->
 <script>
 $('.hastip').tooltipsy({
@@ -162,5 +167,11 @@ $('.hastip').tooltipsy({
     }
 });
 </script><!-- end tooltip-->
+ <script>
+    $(function(){
+        //basic config
+        $("#ubaplayer").ubaPlayer();
+    });
+</script>
   </body>
 </html>

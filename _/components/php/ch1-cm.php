@@ -1,5 +1,5 @@
 <h2>كتاب الطهارة</h2>
-				<table class="table table-bordered table-striped table-hover">
+				<table>
 					<tr>
 						<td>54</td>
 						<td>فَصْلٌ وَتَحْصُلُ الطَّهَارَةُ بِما</td>

@@ -97,6 +97,9 @@
                           <section id="section-2-7">
                             <?php include "_/components/php/ch2-section-7.php"; ?>
                           </section>
+                          <section id="section-2-8">
+                            <?php include "_/components/php/ch2-section-8.php"; ?>
+                          </section>
                   </div>
                   <div class="chapter" id="chapter3">
                           <section id="section-3-1">

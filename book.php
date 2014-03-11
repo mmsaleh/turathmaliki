@@ -54,7 +54,7 @@
                               <?php include "_/components/php/ch1-section-3.php"; ?>
                             </section>
                             <section id="section-1-4">
-                              <?php include "_/components/php/ch1-section-3.php"; ?>
+                              <?php include "_/components/php/ch1-section-4.php"; ?>
                             </section>
                             <section id="section-1-5">
                               <?php include "_/components/php/ch1-section-5.php"; ?>
@@ -86,7 +86,7 @@
                             <?php include "_/components/php/ch2-section-3.php"; ?>
                           </section>
                           <section id="section-2-4">
-                            <?php include "_/components/php/ch2-section-3.php"; ?>
+                            <?php include "_/components/php/ch2-section-4.php"; ?>
                           </section>
                           <section id="section-2-5">
                             <?php include "_/components/php/ch2-section-5.php"; ?>

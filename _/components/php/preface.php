@@ -1,4 +1,5 @@
-<h3>heading</h3>
+
+<h2>المرشد المعين على الضروري من علوم الدين</h2>
 <table id="fittext3" class="table table-bordered table-striped table-hover table-responsive">
 	<tr>
 		<td>1</td>

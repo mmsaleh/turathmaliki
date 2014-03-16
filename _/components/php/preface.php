@@ -1,6 +1,6 @@
 
 <h2>المرشد المعين على الضروري من علوم الدين</h2>
-<table id="fittext3" class="table table-bordered table-striped table-hover table-responsive">
+<table class="table table-bordered table-striped table-hover table-responsive">
 	<tr>
 		<td>1</td>
 		<td>ﻳَﻘُﻮﻝُ ﻋَﺒْﺪُاﻟْﻮَاﺣِﺪِ اﺑْﻦُ ﻋَﺎﺷِﺮ</td>

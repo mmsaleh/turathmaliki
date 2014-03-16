@@ -5,7 +5,7 @@
      <h3>اﻟﺤﺒﻞُ اﻟﻤﺘﻴﻦ ﻋﻠﻰ ﻧﻈﻢ اﻟﻤﺮﺷﺪ اﻟﻤﻌﻴﻦ ﻋﻠﻰ اﻟﻀﺮﻭﺭﻱِّ ﻣﻦ ﻋﻠﻮﻡ اﻟﺪﻳﻦ</h3>
      <p>.ﺟﻌﻠﻪ اﻟﻠﻪ ﺧﺎﻟﺼًﺎ ﻟﻮﺟﻬِﻪ اﻟﻜﺮﻳﻢ: ﻧﻔﻌﻨﺎ ﺑﻪ اﻟﻨﻔﻊَ اﻟﻌﻤﻴﻢَ ﺑﺠﺎﻩِ ﻣَﻦ ﻟﻪ اﻟﺨُﻠُﻖُ اﻟﻌﻈﻴﻢ: ﻣﻮﻻﻧﺎ ﻣﺤﻤﺪٌ ﻋﻠﻴﻪِ ﻭﻋﻠﻰ ﺁﻟﻪ ﺃﻓﻀﻞُ اﻟﺼﻼﺓ ﻭﺃﺯﻛﻰ اﻟﺘﺴﻠﻴﻢ
 ﻓﺄﻗﻮﻝ: ﻭَﻣِﻦ اﻟﻠﻪ ﺃﻃﻠﺐ اﻟﺮﺿﺎ ﻭاﻟﻘﺒﻮﻝ، ﻗﺎﻝ اﻟﻨﺎﻇﻢ: </p>
-      <table  id="fittext3" class="table table-bordered table-striped table-hover">
+      <table  class="table table-bordered table-striped table-hover">
        <tr>
         <td>1</td>
         <td>ﻳَﻘُﻮﻝُ ﻋَﺒْﺪُاﻟْﻮَاﺣِﺪِ اﺑْﻦُ ﻋَﺎﺷِﺮِ</td>
@@ -27,7 +27,7 @@
 
      <p>ﻋﺮَّﻑ ﺑﻨﻔﺴﻪ، ﻭﺑﺪﺃ ﻧﻈﻤَﻪ ﺑﺒﺴﻢ اﻟﻠﻪ اﻟﺮﺣﻤﻦ اﻟﺮﺣﻴﻢ، ﻭﺣﻤﺪ اﻟﻠﻪ ﺗﻌﺎﻟﻰ اﻟﻤﺴﺘﺤﻖَّ ﻟﺠﻤﻴﻊ اﻟﻤﺤﺎﻣﺪ، ﻭﺻﻠﻰ ﻋﻠﻰ ﻧﺒﻴِّﻪ ﻣﻮﻻﻧﺎ ﻣﺤﻤﺪٍ ﺻﻠﻰ اﻟﻠﻪ ﻋﻠﻴﻪ ﻭﺳﻠﻢ، ﺇﺫ ﻫﻮ اﻟﻮاﺳﻄﺔ اﻟﻌﻈﻤﻰ ﻓﻲ ﻛﻞ ﺷﻲء ﻭﺻﻞ ﺇﻟﻴﻨﺎ ﻣﻦ ﺧﻴﺮ ﺃﻭ ﺳﻴﺼﻞ. ﺛﻢ ﻗﺎﻝ:</p>
 
-      <table  id="fittext3" class="table table-bordered table-striped table-hover">
+      <table class="table table-bordered table-striped table-hover">
        <tr>
         <td>4</td>
         <td>ْﻭَﺑَﻌْﺪُ ﻓَﺎﻟْﻌَﻮْﻥُ ﻣِﻦَ اﻟﻠَّﻪِ اﻟْﻤَﺠِﻴﺪ</td>

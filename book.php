@@ -142,11 +142,7 @@
       <script src="_/js/jquery.fittext.js"></script>
       <script src="_/js/jquery.ubaplayer.min.js"></script>
 
-      <script type="text/javascript">
-    $("#fittext1").fitText();
-    $("#fittext2").fitText(1.2);
-    $("#fittext3").fitText(1.1, { minFontSize: '12px', maxFontSize: '22px' });
-  </script>
+  <!-- ubaplayer script -->
   <script>
     $(function(){
         //basic config

@@ -105,13 +105,13 @@
 </div>
 <!-- Modal map1-1 -->
 <div class="modal fade" id="map1-1" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-  <div class="modal-dialog modal-sm">
+  <div class="modal-dialog modal-lg">
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
       </div>
       <div class="modal-body">
-        <img src="images/1_1.jpg">
+        <img src="images/1_1b.jpg">
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-default" data-dismiss="modal">إغلاق</button>

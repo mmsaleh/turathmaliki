@@ -1,5 +1,5 @@
 <h2>ﻣﻘﺪﻣﺔ ﻟﻜﺘﺎﺏ اﻻﻋﺘﻘﺎﺩ ﻣﻌﻴﻨﺔ ﻟﻘﺎﺭﺋﻬﺎ ﻋﻠﻰ 
-<a href="#" class="hastip" title="في نسخة العمراوي حذف كل كتاب العقيدة ولم يشر إلى أنه قام بهذا الحذف، بل إنه في المقدمة أشار إلى أن الشيخ الطيب بن كيران قد شرح كتاب العقيدة منها، وأن الشرح مطبوع، ولم يشر الكاتب إلى سبب هذا الحذف بالرغم من ثنائه العاطر على نظم ابن عاشر، في المقدمة، انظر العمراوي، المبين عن أدلة المرشد المعين، ص 36، وأتساءل ما هو التفسير لعدم نشر مقدمة العقيدة هذه في كتاب العرف الناشر، وابتدأ المؤلف من مقدمة الأصول انظر ص 22 من العرف الناشر،  وفي نسخة الطهطاوي، جعل عنوان الكتاب المنثور: مقدمة لكتاب الاعتقاد معينة لقارئها على المراد البيت السادس من المنظومة، انظر: شرح منظومة ابن عاشر. ص: 9">اﻟﻤُﺮاﺩ</a>
+<a  class="hastip" title="في نسخة العمراوي حذف كل كتاب العقيدة ولم يشر إلى أنه قام بهذا الحذف، بل إنه في المقدمة أشار إلى أن الشيخ الطيب بن كيران قد شرح كتاب العقيدة منها، وأن الشرح مطبوع، ولم يشر الكاتب إلى سبب هذا الحذف بالرغم من ثنائه العاطر على نظم ابن عاشر، في المقدمة، انظر العمراوي، المبين عن أدلة المرشد المعين، ص 36، وأتساءل ما هو التفسير لعدم نشر مقدمة العقيدة هذه في كتاب العرف الناشر، وابتدأ المؤلف من مقدمة الأصول انظر ص 22 من العرف الناشر،  وفي نسخة الطهطاوي، جعل عنوان الكتاب المنثور: مقدمة لكتاب الاعتقاد معينة لقارئها على المراد البيت السادس من المنظومة، انظر: شرح منظومة ابن عاشر. ص: 9">اﻟﻤُﺮاﺩ</a>
 </h2>
       <table class="table table-bordered table-striped table-hover">
        <tr>
@@ -24,8 +24,8 @@
        <tr>
         <td>9</td>
         <td>ْﻭَﺟَﺎﺋﺰاً: ﻣَﺎ 
-		<a href="#" class="hastip" title="في نسخة إرشاد المريدين، والنور المبين، ما قَبِل الأمرين، أي ما قبل الثبوت والانتفاء فهو جائز، وفي نسخ ما قابَل.">ﻗَﺒِﻞَ</a>
-		<a href="#" class="hastip" title="أي يقبل النفي ويقبل الثبوت، والتقدير سِم ما قابل الأمرين -وهما الثبوت والنفي – جائزا، وفعل الأمر سِمْ: من الفعل وسم أي أعطى سِـمَةً وعلامة.">اﻷﻣْﺮَﻳْﻦِ</a>
+		<a  class="hastip" title="في نسخة إرشاد المريدين، والنور المبين، ما قَبِل الأمرين، أي ما قبل الثبوت والانتفاء فهو جائز، وفي نسخ ما قابَل.">ﻗَﺒِﻞَ</a>
+		<a  class="hastip" title="أي يقبل النفي ويقبل الثبوت، والتقدير سِم ما قابل الأمرين -وهما الثبوت والنفي – جائزا، وفعل الأمر سِمْ: من الفعل وسم أي أعطى سِـمَةً وعلامة.">اﻷﻣْﺮَﻳْﻦِ</a>
 		ﺳِﻢ</td>
         <td>ﻟِﻠﻀَّﺮُﻭﺭِﻱْ، ﻭاﻟﻨَّﻈﺮﻱْ: ﻛﻞٌّ 
 		<a  class="hastip" title="الضروري: ما يدرك دون تأمل ونظر، كالواحد نصف الاثنين، أما النظري: فلا يدرك إلا بالنظر والتفكر، وذلك كحل المعادلات الرياضية المقعدة، فإن العقل يصل فيها إلى القطع، ولكن بعد النظر والتأمل.">ﻗُﺴِﻢْ</a>
@@ -69,13 +69,13 @@
  </p>
  <!-- Modal neck -->
 <div class="modal fade" id="neck" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-  <div class="modal-dialog modal-sm">
+  <div class="modal-dialog modal-lg">
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
       </div>
       <div class="modal-body">
-        <img src="images/adult.gif">
+        <img src="images/adult.gif" class="img-responsive">
         <p>خيط الرقبة: وهو أن يأخذ خيطا ثم يثنيه ويديره برقبته ويجمع طرفيه في أسنانه فإن دخل رأسه منه فقد بلغ وإلا فلا، قال سيدي ابن عبد الرحمن بن عبد القادر الفاسي، لا عبرة بالخيط عند الفقهاء،انطر : القلاوي الشنقيطي، مفيد العباد، ص 69.</p>
       </div>
       <div class="modal-footer">
@@ -87,13 +87,13 @@
 </div>
 <!-- Modal nose -->
 <div class="modal fade" id="nose" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-  <div class="modal-dialog modal-sm">
+  <div class="modal-dialog modal-lg">
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
       </div>
       <div class="modal-body">
-        <img src="images/nose.jpg">
+        <img src="images/nose.jpg" class="img-responsive">
         <p>مواهب الجليل في شرح مختصر الشيخ خليل - (14 / 192)
 قال البرزلي في كتاب الصيام : زاد القرافي في العلامات نتن الإبط ، وزاد غيره فرق الأرنبة من الأنف</p>
       </div>
@@ -111,7 +111,7 @@
         <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
       </div>
       <div class="modal-body">
-        <img src="images/1_1b.jpg">
+        <img src="images/1_1.jpg" class="img-responsive">
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-default" data-dismiss="modal">إغلاق</button>

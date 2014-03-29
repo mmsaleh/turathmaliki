@@ -47,70 +47,39 @@
     <!-- /.intro-header -->
 
          <hr>
-       <!-- Marketing messaging and featurettes
-    ================================================== -->
-    <!-- Wrap the rest of the page in another container to center all the content. -->
+      
 
     <div class="container">
 
-      <!-- Three columns of text -->
-      <div class="row">
-        <div class="col-lg-4" id="feature">
-          <img class="img-circle" src="images/bookicon.png" alt="book">
-          <h2>اقرأ الكتاب</h2>
-          <p>Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Praesent commodo cursus magna.</p>
-          <p><a class="btn btn-default pull-right" href="#" role="button">ابدأ &raquo;</a></p>
-        </div><!-- /.col-lg-4 -->
-        <div class="col-lg-4">
-          <img class="img-circle" src="images/phonesicon.png" alt="headphones">
-          <h2>استمع إلى الصوتيات</h2>
-          <p>Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh.</p>
-          <p><a class="btn btn-default pull-right" href="#" role="button">ابدأ &raquo;</a></p>
-        </div><!-- /.col-lg-4 -->
-        <div class="col-lg-4">
-          <img class="img-circle" src="images/quizicon.png" alt="notebook">
-          <h2>الرسومات التوضيحية</h2>
-          <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-          <p><a class="btn btn-default pull-right" href="#" role="button">ابدأ &raquo;</a></p>
-        </div><!-- /.col-lg-4 -->
-      </div><!-- /.row -->
-
-      <hr>
-
-      <div class="row">
-        <div class="col-md-7">
+      <div class="row" id="feature">
+        <div class="col col-xs-6 card" >
           <h2>التحقيق العلمي</h2>
-          <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
+          <p class="lead">من خلال ضبط النص الأصلي ضبطا دقيقا، وذلك بمقارنة النسخ المطبوعة من الكتاب بعضها ببعض، لمعرفة مواضع الخلل</p>
         </div>
-        <div class="col-md-5">
-          <img class="img-responsive" src="images/poetryimg.jpg" alt="manuscript">
+        <div class="col-xs-6">
+          <img class="img-responsive card" src="images/poetryimg.jpg" alt="manuscript">
         </div>
       </div>
-
-      <hr>
-
+      <hr/>
       <div class="row">
-        <div class="col-md-5">
-          <img class="img-responsive" src="images/ebook.jpg" alt="ebook">
+        <div class="col col-xs-6  col-xs-push-6 card">
+          <h2>استخدام الوسائل الحديثة</h2>
+          <p class="lead">وذلك من خلال الاعتماد على تقنيات الويب وأسلوب التصميم العصري للحصول على تجربة قراءة مريحة للقارئ سواء كان يتصفح الموقع على جهاز الحساوب المكتبي أو الحاسوب اللوحي أو حتى الهاتف النقال</p>
         </div>
-        <div class="col-md-7">
-          <h2>الوسائل الحديثة</h2>
-          <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
+        <div class="col-xs-6  col-xs-pull-6 card">
+          <img class="img-responsive" src="images/ebook.jpg" alt="technology">
         </div>
       </div>
-
-      <hr>
-
+      <hr/>
       <div class="row">
-        <div class="col-md-7">
-          <h2>مواكبة التطور</h2>
-          <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
+        <div class="col-xs-6 card">
+          <h2>المحافظة على التراث</h2>
+          <p class="lead">الحرص على الاحتفاظ بالهوية الأصلية لكتب التراث وهيبتها وبالوقت نفسه إدخال لمسات فنية هدفها إظهار بعض المعلومات التي قد تشكل على المتعلم من خلال رسومات وخرائط ذهنية وغيرها من الوسائل التوضيحية</p>
         </div>
-        <div class="col-md-5">
-          <img class="img-responsive" src="images/laptop.jpg" alt="laptop">
+        <div class="col-xs-6 card">
+          <img class="img-responsive" src="images/scroll.jpg" alt="scrolls">
         </div>
       </div>
-
       <hr>
       
       <?php include "_/components/php/footer.php"; ?>

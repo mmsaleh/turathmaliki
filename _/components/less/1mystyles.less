@@ -89,16 +89,21 @@
 h1, h2, h3, h4, h5, h6 {
   font-family: "Droid Arabic Kufi";
 }
+ html { 
+     background-image: url('../../images/bg.png');
+     background-repeat: repeat; 
+ }
+
 body {
   font-family: "Droid Arabic Naskh", Helvetica, Arial, sans-serif;
   font-size: 16px;
+  background-color: transparent;
 }
 body { padding-top: 50px; }
 
 .chapter{
-  max-width: 960px;
    line-height: 2em;
-  font-size: 18px;
+  font-size: 1.4em;
   text-align: justify;
     h1,h2,h3,h4,h5,h6 {
     color:  #B4252D;
@@ -120,6 +125,7 @@ body { padding-top: 50px; }
   margin-right: auto;
   margin-left: auto;
   text-align: center;
+  color: #fff;
 }
 .navbar {
   margin-bottom: 0;
@@ -132,12 +138,12 @@ table tr td {
 table {
   color:#B4252D;
   font-family: 'Amiri', serif;
-  font-size: 1.4em;
+  font-size: 1.2em;
   line-height: 2.2em;
   text-align: justify;
   margin-right:auto;
   margin-left: auto;
-  max-width:700px;
+  min-width:700px;
 }
 .bookchapters {
   padding: 2em;
@@ -160,6 +166,7 @@ a.hastip {
   text-decoration: none;
   border-bottom: dotted 3px #B4252D;
 }
-
-
-
+.card {
+padding:4em;
+min-height: 250px;
+  }

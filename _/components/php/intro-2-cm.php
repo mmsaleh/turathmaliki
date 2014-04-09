@@ -171,7 +171,7 @@
        </tr>
       </table>
      <p>ﻟﻮ اﻧﺘﻔﻰ ﻋﻦ اﻟﺮﺳﻞ ﻋﻠﻴﻬﻢ اﻟﺼﻼﺓ ﻭاﻟﺴﻼﻡ اﻻﺗﺼﺎﻑُ ﺑﺎﻟﺘﺒﻠﻴﻎ ﺑﺤﻴﺚُ ﻛﺘﻤﻮا ﻣﺎ ﺃُﻣِﺮﻭا ﺑﺘﺒﻠﻴﻐﻪ، ﺃﻭ اﻧﺘﻔﻰ ﻋﻨﻬﻢ ﻭﺻﻒُ اﻷﻣﺎﻧﺔ ﺑﺄﻥ ﺧﺎﻧﻮا، ﻓﻮﻗﻊ ﻣﻨﻬﻢ ﻣﻨﻬﻲٌّ ﻋﻨﻪ ﻣﻦ ﻣﺤّﺮﻡ ﺃﻭ ﻣﻜﺮﻭﻩٍ ﻟﺼﺎﺭ ﺫﻟﻚ اﻟﻜﺘﻤﺎﻥُ ﺃﻭ اﻟﻤﻨﻬﻲُّ ﻋﻨﻪ ﻃﺎﻋﺔً ﻓﻲ ﺣﻘﻬﻢ، ﻓﻨﻜﻮﻥ ﻣﺄﻣﻮﺭﻳﻦ ﺑﻤﺜﻞ ﺫﻟﻚ، ﻭﺫﻟﻚ ﻣﻠﻌﻮﻥ ﻓﺎﻋﻠُﻪ، ﺛﻢ ﻗﺎﻝ:</p>
-      <table  id="fittext3" class="table table-bordered table-striped table-hover">
+      <table   class="table table-bordered table-striped table-hover">
        <tr>
         <td>37</td>
         <td>ْﺟَﻮَاﺯُ اﻻَﻋْﺮَاﺽِ ﻋَﻠَﻴْﻬِﻢْ ﺣُﺠّﺘُﻪ:</td>
@@ -192,7 +192,10 @@
        </tr>
       </table>
      <p>ﻭاﻟﻤﻌﻨﻰ ﺃﻥ ﺟﻤﻴﻊَ اﻟﻌﻘﺎﺋﺪ اﻟﻤﺘﻘﺪﻣﺔ ﻣﻨﺪﺭﺟﺔٌ ﻓﻲ ﻗﻮﻟﻨﺎ: ﻻ ﺇﻟﻪ ﺇﻻ اﻟﻠﻪ ﻣﺤﻤﺪ ﺭﺳﻮﻝ اﻟﻠﻪ، ﻭﺑﻴﺎﻥ ﺫﻟﻚ ﺃﻥ ﺗﻘﻮﻝ: ﻓﻲ ﻣﻌﻨﻰ ﻗﻮﻟﻨﺎ ﻻ ﺇﻟﻪ ﺇﻻ اﻟﻠﻪ، ﺃﻧﻪ ﻻ ﻣُﺴﺘﻐﻨﻲَ ﻋﻦ ﻛﻞ ﻣﻦ ﺳﻮاﻩ، ﻭﻣﻔﺘﻘﺮَ ﺇﻟﻴﻪ ﻛﻞ ﻣﺎ ﻋﺪاﻩ ﺇﻻ اﻟﻠﻪُ، ﻓﻴﺪﺧﻞُ ﺗﺤﺖ اﻻﺳﺘﻐﻨﺎء ﺛﻤﺎﻧﻴﺔٌ ﻭﻋﺸﺮﻭﻥ ﻋﻘﻴﺪﺓ، ﻭﻫﻲ: اﻟﻮﺟﻮﺩ، ﻭاﻟﻘﺪﻡ، ﻭاﻟﺒﻘﺎء، ﻭاﻟﻘﻴﺎﻡ ﺑﺎﻟﻨﻔﺲ، ﻭاﻟﻤﺨﺎﻟﻔﺔ ﻟﻠﺤﻮاﺩﺙ، ﻭاﻟﺴﻤﻊ، ﻭاﻟﺒﺼﺮ، ﻭاﻟﻜﻼﻡ، ﻭﻛﻮﻧُﻪ ﺳﻤﻴﻌًﺎ، ﻭﺑﺼﻴﺮًا، ﻭﻣﺘﻜﻠﻤًﺎ، ﻭاﻟﺘﻨﺰﻩُ ﻋﻦ اﻷﻋﺮاﺽ، ﻭﻋﺪﻡُ ﻭﺟﻮﺏ ﻓﻌﻞ ﺷﻲء ﻋﻠﻴﻪ، ﺃﻭ ﺗﺮﻛُﻪ، ﻭﻧﻔﻲُ ﻛﻮﻥِ اﻟﺸﻲء ﻣﺆﺛﺮًا ﺑﻘﻮﺓ، ﻻ ﺃﺿﺪاﺩُ ﺫﻟﻚ.</p> 
-     <p>ﻭﻳﺪﺧﻞ ﺗﺤﺖ اﻻﻓﺘﻘﺎﺭ اﺛﻨﺘﺎﻥ ﻭﻋﺸﺮﻭﻥ ﻋﻘﻴﺪﺓ، ﻭﻫﻲ: اﻟﻮﺣﺪاﻧﻴﺔُ، ﻭاﻟﻘﺪﺭﺓُ، ﻭاﻹﺭاﺩﺓُ، ﻭاﻟﻌﻠﻢُ، ﻭاﻟﺤﻴﺎﺓُ، ﻭﻛﻮﻧُﻪ ﻗﺎﺩﺭًا ﻭﻣﺮﻳﺪًا ﻭﻋﺎﻟﻤﺎ ﻭﺣﻴًّﺎ، ﻭﻋﺪﻡُ ﺗﺄﺛﻴﺮ ﺷﻲء ﻣﻦ اﻟﻜﺎﺋﻨﺎﺕ ﻓﻲ ﺃﺛﺮٍ ﻣﺎ ﺑﻄﺒﻌﻪ، ﻭﺣﺪﻭﺙُ اﻟﻌﺎﻟﻢ ﺑﺄﺳﺮﻩ ﻭﺃﺿﺪاﺩُ ﻣﺎ ﺫﻛﺮ، اﻟﺠﻤﻊ ﺧﻤﺴﻮﻥ ﻋﻘﻴﺪﺓ، ﻭﺃﻣّﺎ ﻗﻮﻟﻨﺎ ﻣﺤﻤﺪ ﺭﺳﻮﻝ اﻟﻠﻪ ﺻﻠﻰ اﻟﻠﻪ ﻋﻠﻴﻪ ﻭﺳﻠﻢ ﻓﻴﺪﺧﻞُ ﻓﻴﻪ: اﻹﻳﻤﺎﻥُ ﺑﺴﺎﺋﺮ اﻷﻧﺒﻴﺎء ﻭاﻟﺮﺳﻞ، ﻭاﻟﻤﻼﺋﻜﺔِ، ﻭاﻟﻜﺘﺐِ اﻟﺴﻤﺎﻭﻳﺔ، ﻭاﻟﻴﻮﻡِ اﻵﺧﺮ، ﻭﻭﺟﻮﺏِ اﻟﺼﺪﻕ، ﻭاﻷﻣﺎﻧﺔِ، ﻭاﻟﺘﺒﻠﻴﻎِ، ﻭﺟﻮاﺯِ اﻷﻋﺮاﺽ اﻟﺒﺸﺮﻳﺔ ﻋﻠﻴﻬﻢ ﻭﺃﺿﺪاﺩِﻫﺎ، ﻭﺇﺫا ﺃﺿﻔﺘﻬﺎ ﻟﻤﺎ ﻗﺒﻠﻬﺎ ﻳﻜﻮﻥ اﻟﺠﻤﻴﻊ ﺳِﺘًّﺎ ﻭﺳﺘﻴﻦ ﻋﻘﻴﺪﺓ. ﺛﻢ ﻗﺎﻝ: <a href="#"  data-toggle="modal" data-target="#map1-3"><img src="images/mapicon.png"></a> </p>
+     <p>ﻭﻳﺪﺧﻞ ﺗﺤﺖ اﻻﻓﺘﻘﺎﺭ اﺛﻨﺘﺎﻥ ﻭﻋﺸﺮﻭﻥ ﻋﻘﻴﺪﺓ، ﻭﻫﻲ: اﻟﻮﺣﺪاﻧﻴﺔُ، ﻭاﻟﻘﺪﺭﺓُ، ﻭاﻹﺭاﺩﺓُ، ﻭاﻟﻌﻠﻢُ، ﻭاﻟﺤﻴﺎﺓُ، ﻭﻛﻮﻧُﻪ ﻗﺎﺩﺭًا ﻭﻣﺮﻳﺪًا ﻭﻋﺎﻟﻤﺎ ﻭﺣﻴًّﺎ، ﻭﻋﺪﻡُ ﺗﺄﺛﻴﺮ ﺷﻲء ﻣﻦ اﻟﻜﺎﺋﻨﺎﺕ ﻓﻲ ﺃﺛﺮٍ ﻣﺎ ﺑﻄﺒﻌﻪ، ﻭﺣﺪﻭﺙُ اﻟﻌﺎﻟﻢ ﺑﺄﺳﺮﻩ ﻭﺃﺿﺪاﺩُ ﻣﺎ ﺫﻛﺮ، اﻟﺠﻤﻊ ﺧﻤﺴﻮﻥ ﻋﻘﻴﺪﺓ، ﻭﺃﻣّﺎ ﻗﻮﻟﻨﺎ ﻣﺤﻤﺪ ﺭﺳﻮﻝ اﻟﻠﻪ ﺻﻠﻰ اﻟﻠﻪ ﻋﻠﻴﻪ ﻭﺳﻠﻢ ﻓﻴﺪﺧﻞُ ﻓﻴﻪ: اﻹﻳﻤﺎﻥُ ﺑﺴﺎﺋﺮ اﻷﻧﺒﻴﺎء ﻭاﻟﺮﺳﻞ، ﻭاﻟﻤﻼﺋﻜﺔِ، ﻭاﻟﻜﺘﺐِ اﻟﺴﻤﺎﻭﻳﺔ، ﻭاﻟﻴﻮﻡِ اﻵﺧﺮ، ﻭﻭﺟﻮﺏِ اﻟﺼﺪﻕ، ﻭاﻷﻣﺎﻧﺔِ، ﻭاﻟﺘﺒﻠﻴﻎِ، ﻭﺟﻮاﺯِ اﻷﻋﺮاﺽ اﻟﺒﺸﺮﻳﺔ ﻋﻠﻴﻬﻢ ﻭﺃﺿﺪاﺩِﻫﺎ، ﻭﺇﺫا ﺃﺿﻔﺘﻬﺎ ﻟﻤﺎ ﻗﺒﻠﻬﺎ ﻳﻜﻮﻥ اﻟﺠﻤﻴﻊ ﺳِﺘًّﺎ ﻭﺳﺘﻴﻦ ﻋﻘﻴﺪﺓ. ﺛﻢ ﻗﺎﻝ: 
+      <a href="#"  data-toggle="modal" data-target="#map1-3"><img src="images/mapicon.png"></a>
+     </p>
+       
       <table  class="table table-bordered table-striped table-hover">
        <tr>
         <td>40</td>
@@ -251,33 +254,23 @@
      <p>اﻹﺣﺴﺎﻥ: ﻫﻮ اﻹﺧﻼﺹُ ﻓﻲ اﻟﻌﺒﺎﺩﺓ، ﻭاﻟﺨﺸﻮﻉُ ﻓﻴﻬﺎ ﻭﻓﺮاﻍُ اﻟﺒﺎﻝ ﻣﻦ اﻟﺸﻮاﻏﻞ اﻟﺪﻧﻴﻮﻳﺔ، ﺣﺎﻝَ اﻟﺘﻠﺒُّﺲ ﺑﻬﺎ. ﻭﻣﻌﻨﻰ ﻗﻮﻟﻪ ﻣﻦ ﺩَﺭاﻩ: ﻋَﻠِﻤﻪ، ﻭﻫﻮ ﻧﺒﻴﻨﺎ ﻭﻣﻮﻻﻧﺎ ﻣﺤﻤﺪ ﺻﻠﻰ اﻟﻠﻪ ﻋﻠﻴﻪ ﻭﺳﻠﻢ، ﻭﻣﻌﻨﻰ ﻗﻮﻟِﻪ: ﺃﻥ ﺗﻌﺒﺪ اﻟﻠﻪ ﻛﺄﻧﻚ ﺗﺮاﻩ: ﻫﻮ ﺃﻥ ﻳﻐﻠﺐَ ﻋﻠﻴﻚ ﺷﻬﻮﺩُ اﻟﺤﻖ ﺑﻘﻠﺒﻚ، ﺣﺘﻰ ﻛﺄﻧﻚ ﺗﺮاﻩ ﺑﻌﻴﻨﻚ، ﻭﻣﻌﻨﻰ ﻗﻮﻟﻪ: ﺇﻥ ﻟﻢ ﺗﻜﻦ ﺗﺮاﻩ ﻓﺈﻧﻪ ﻳﺮاﻙ: ﺃﻥ ﺗﺴﺘﺤﻀﺮ ﺃﻥ اﻟﺤﻖ ﺳﺒﺤﺎﻧﻪ ﻣﻄﻠﻊٌ ﻋﻠﻴﻚ ﻳﺮﻯ ﻛﻞَّ ﻣﺎ ﺗﻌﻤﻞ، ﻭﻣﻌﻨﻰ ﻗﻮﻟﻪ: ﻭاﻟﺪِّﻳﻦُ ﺫﻱ اﻟﺜﻼﺙُ: ﺃﻥ اﻟﺪﻳﻦ ﻫﻮ ﻣﺠﻤﻮﻉ ﻫﺬﻩ اﻷﺷﻴﺎء اﻟﺜﻼﺛﺔ اﻟﺘﻲ ﻫﻲ: اﻹﺳﻼﻡ، ﻭاﻹﻳﻤﺎﻥ، ﻭاﻹﺣﺴﺎﻥ، ﻓﻤﻦ ﻟﻢ ﻳﺘﺼﻒ ﺑﻬﺎ ﻛﻠِّﻬﺎ ﻓﺈﻳﻤﺎﻧُﻪ ﻧﺎﻗﺺ.</p>
      <!-- Modal map1-2 -->
 <div class="modal fade" id="map1-2" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-  <div class="modal-dialog modal-lg">
-    <div class="modal-content">
-      <div class="modal-header">
-        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-      </div>
-      <div class="modal-body">
+    <div class="modal-content map">
+      <div class="container">
         <img src="images/1_2.jpg" class="img-responsive">
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-default" data-dismiss="modal">إغلاق</button>
       </div>
-    </div>
-  </div>
+</div>
 </div>
 <!-- Modal map1-3 -->
 <div class="modal fade" id="map1-3" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-  <div class="modal-dialog modal-lg">
-    <div class="modal-content">
-      <div class="modal-header">
-        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-      </div>
-      <div class="modal-body">
+    <div class="modal-content map">
+      <div class="container">
         <img src="images/1_3.jpg" class="img-responsive">
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-default" data-dismiss="modal">إغلاق</button>
       </div>
-    </div>
   </div>
 </div>

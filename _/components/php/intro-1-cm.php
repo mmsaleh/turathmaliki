@@ -75,7 +75,7 @@
         <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
       </div>
       <div class="modal-body">
-        <img src="images/adult.gif" class="img-responsive">
+        <img src="images/adult.gif"  class="img-responsive">
         <p>خيط الرقبة: وهو أن يأخذ خيطا ثم يثنيه ويديره برقبته ويجمع طرفيه في أسنانه فإن دخل رأسه منه فقد بلغ وإلا فلا، قال سيدي ابن عبد الرحمن بن عبد القادر الفاسي، لا عبرة بالخيط عند الفقهاء،انطر : القلاوي الشنقيطي، مفيد العباد، ص 69.</p>
       </div>
       <div class="modal-footer">
@@ -105,17 +105,14 @@
 </div>
 <!-- Modal map1-1 -->
 <div class="modal fade" id="map1-1" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-  <div class="modal-dialog modal-lg">
-    <div class="modal-content">
-      <div class="modal-header">
-        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-      </div>
-      <div class="modal-body">
+  
+    <div class="modal-content map">
+      <div class="container">
         <img src="images/1_1.jpg" class="img-responsive">
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-default" data-dismiss="modal">إغلاق</button>
       </div>
-    </div>
-  </div>
+   
+  
 </div>

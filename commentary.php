@@ -28,7 +28,7 @@
       
       <section class="container">
       <div class="content row">
-        <section class="bookchapters col col-xs-8 col-xs-offset-2" >
+        <section class="bookchapters col col-md-8 col-md-offset-2 col col-xs-12" >
               <div class="chapter" id="introduction">
                         <section id="preface">
                             <?php include "_/components/php/preface-cm.php"; ?>

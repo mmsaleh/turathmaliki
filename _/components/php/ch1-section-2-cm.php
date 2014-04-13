@@ -10,7 +10,7 @@
 			<td>تَرْتِيبُ فَرْضِهِ، وَذَا الْمُخْتَارُ</td>
 		</tr>
 	</table>
-	<p>سنن الوضوء سبع: </p>
+	<p>سنن الوضوء سبع: <a href="#"  data-toggle="modal" data-target="#map2-3"><img src="images/mapicon.png"></a></p>
 	<p>الأولى: غسل اليدين إلى الكوعين قبل إدخالهما في الإناء إن أمكن الإفراغ وإلا أدخلهما فيه كالماء الكثير والجاري.</p>
 	<p>الثانية: رد  مسح الرأس من منتهى المسح لمبدئه.</p>
 	<p> الثالثة: مسح الأذنين ظاهرهما وباطنهما مع تجديد الماء لهما.</p>
@@ -39,3 +39,14 @@
 			<td>تَخْلِيلُهُ أَصَابِعاً بِقَدَمِهْ</td>
 		</tr>
 	</table>
+<!-- Modal map2-3 -->
+<div class="modal fade" id="map2-3" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+	<div class="modal-content map">
+		<div class="container">
+			<img src="images/2-3.jpg" class="img-responsive">
+		</div>
+		<div class="modal-footer">
+					<button type="button" class="btn btn-default" data-dismiss="modal">إغلاق</button>
+		</div>
+	</div>
+</div>

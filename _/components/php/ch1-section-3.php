@@ -1,4 +1,4 @@
-<h3>سنن الوضوء</h3>
+
 <table class="table table-bordered table-striped table-hover">
 	<tr>
 		<td>68</td>

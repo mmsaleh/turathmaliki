@@ -32,7 +32,7 @@
 		</td>
        </tr>
       </table>
-     <p>اﻟﺤﻜﻢ ﻫﻮ ﺇﺛﺒﺎﺕ ﺃﻣﺮ ﻷﻣﺮ، ﺃﻭ ﻧﻔﻲُ ﺃﻣﺮٍ ﻋﻦ ﺃﻣﺮ، ﻭﻫﻮ ﻋﻠﻰ ﺛﻼﺛﺔ ﺃﻗﺴﺎﻡ: ﺇﻣﺎ اﻥ ﻳﻜﻮﻥ ﻋﻘﻠﻴًﺎ، ﺑﻤﻌﻨﻰ ﺃﻥ ﻳُﺪﺭَﻙَ ﺑﺎﻟﻌﻘﻞِ ﻓﻘﻂ، ﺃﻭ ﻋﺎﺩﻳًﺎ ﺑﻤﻌﻨﻰ ﺃﻧﻪ ﻳُﺪﺭَﻙ ﺑﺎﻟﻌﺎﺩﺓ ﻭاﻟﺘﺠﺮِﺑﺔ ﻭاﻟﺘﻜﺮاﺭ، ﺃﻭ ﺷﺮﻋﻴًﺎ ﺑﻤﻌﻨﻰ ﺃﻧﻪ ﻳُﺪﺭَﻙ ﻣﻦ ﺟﻬﺔ اﻟﺸﺎﺭﻉ <span class="symbol">&#xFDFA;</span> ، ﻭﻟﻪ ﺃﻗﺴﺎﻡ ﺛﻼﺛﺔ: ﻭﻫﻲ: اﻟﻮاﺟﺐ، ﻭاﻟﻤﺴﺘﺤﻴﻞ ﻭاﻟﺠﺎﺋﺰ. ﻓﺎﻟﻮاﺟﺐ ﻫﻮ اﻟﺬﻱ ﻻ ﻳﻘﺒﻞ اﻟﻨﻔﻲ ﺑﺤﺎﻝ. <a href="#"  data-toggle="modal" data-target="#map1-1"><img src="images/mapicon.png"></a>
+     <p>اﻟﺤﻜﻢ ﻫﻮ ﺇﺛﺒﺎﺕ ﺃﻣﺮ ﻷﻣﺮ، ﺃﻭ ﻧﻔﻲُ ﺃﻣﺮٍ ﻋﻦ ﺃﻣﺮ، ﻭﻫﻮ ﻋﻠﻰ ﺛﻼﺛﺔ ﺃﻗﺴﺎﻡ: ﺇﻣﺎ اﻥ ﻳﻜﻮﻥ ﻋﻘﻠﻴًﺎ، ﺑﻤﻌﻨﻰ ﺃﻥ ﻳُﺪﺭَﻙَ ﺑﺎﻟﻌﻘﻞِ ﻓﻘﻂ، ﺃﻭ ﻋﺎﺩﻳًﺎ ﺑﻤﻌﻨﻰ ﺃﻧﻪ ﻳُﺪﺭَﻙ ﺑﺎﻟﻌﺎﺩﺓ ﻭاﻟﺘﺠﺮِﺑﺔ ﻭاﻟﺘﻜﺮاﺭ، ﺃﻭ ﺷﺮﻋﻴًﺎ ﺑﻤﻌﻨﻰ ﺃﻧﻪ ﻳُﺪﺭَﻙ ﻣﻦ ﺟﻬﺔ اﻟﺸﺎﺭﻉ <span class="symbol">&#xFDFA;</span> ، ﻭﻟﻪ ﺃﻗﺴﺎﻡ ﺛﻼﺛﺔ: ﻭﻫﻲ: اﻟﻮاﺟﺐ، ﻭاﻟﻤﺴﺘﺤﻴﻞ ﻭاﻟﺠﺎﺋﺰ. ﻓﺎﻟﻮاﺟﺐ ﻫﻮ اﻟﺬﻱ ﻻ ﻳﻘﺒﻞ اﻟﻨﻔﻲ ﺑﺤﺎﻝ. <a  data-toggle="modal" data-target="#map1-1"><img src="images/mapicon.png"></a>
      </p>
      <p>ﺃﻱ ﻻ ﻳُﺘﺼﻮﺭ ﻓﻲ اﻟﻌﻘﻞ ﻋﺪﻣُﻪ، ﻭاﻟﻤﺴﺘﺤﻴﻞُ: ﻫﻮ اﻟﺬﻱ ﻻ ﻳﻘﺒﻞ اﻟﺜﺒﻮﺕ ﺑﺤﺎﻝ: ﺃﻱ ﻻ ﻳُﺘﺼﻮﺭ ﻓﻲ اﻟﻌﻘﻞ ﺛﺒﻮﺗُﻪ، ﻭاﻟﺠﺎﺋﺰ: ﻫﻮ اﻟﺬﻱ ﻳﻘﺒﻞ اﻻﻧﺘﻔﺎء ﻭاﻟﺜﺒﻮﺕ: ﺃﻱ اﻟﺬﻱ ﻳﺼﺢ ﻭﺟﻮﺩُﻩ ﻭﻋﺪﻣُﻪ. ﺛﻢ ﻗﺎﻝ:</p>
       <table class="table table-bordered table-striped table-hover">
@@ -64,8 +64,8 @@
 ، ﻭﺩﻡ  
 <a  class="hastip" title="في نسخة دار الرشاد، والحبل المتين 1:   والدم والحيض، ، ولعله خطأ مطبعي والصحيح ما أثبته.">ﻭاﻟﺤﻴﺾِ،</a>
  ﻭاﻟﺤﻤْﻞ،     
-،     ﻭﺯاﺩ ﻏﻴﺮﻩ ﺭاﺋﺤﺔُ اﻹﺑﻄﻴﻦ، ﻭﻓَﺮْﻕ اﻷﻧﻒ <a href="#"  data-toggle="modal" data-target="#nose"><img src="images/img.png"></a> ،
- ﻭﻏِﻠَﻆ اﻟﺼﻮﺕ ﺛﻢ ﻗﺎﻝ ،  ﻭﺧﻴﻂ اﻟﺮﻗﺒﺔ <a href="#"  data-toggle="modal" data-target="#neck"><img src="images/img.png"></a> : 
+،     ﻭﺯاﺩ ﻏﻴﺮﻩ ﺭاﺋﺤﺔُ اﻹﺑﻄﻴﻦ، ﻭﻓَﺮْﻕ اﻷﻧﻒ <a  data-toggle="modal" data-target="#nose"><img src="images/img.png"></a> ،
+ ﻭﻏِﻠَﻆ اﻟﺼﻮﺕ ﺛﻢ ﻗﺎﻝ ،  ﻭﺧﻴﻂ اﻟﺮﻗﺒﺔ <a  data-toggle="modal" data-target="#neck"><img src="images/img.png"></a> : 
  </p>
  <!-- Modal neck -->
 <div class="modal fade" id="neck" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
@@ -105,7 +105,6 @@
 </div>
 <!-- Modal map1-1 -->
 <div class="modal fade" id="map1-1" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-  
     <div class="modal-content map">
       <div class="container">
         <img src="images/1_1.jpg" class="img-responsive">
@@ -113,6 +112,4 @@
       <div class="modal-footer">
         <button type="button" class="btn btn-default" data-dismiss="modal">إغلاق</button>
       </div>
-   
-  
 </div>

@@ -1,4 +1,4 @@
-<p>فضائل الوضوء أي مستحباته إحدى عشرة:<a href="#"  data-toggle="modal" data-target="#map2-4"><img src="images/mapicon.png"></a></p>
+<p>فضائل الوضوء أي مستحباته إحدى عشرة:<a  data-toggle="modal" data-target="#map2-4"><img src="images/mapicon.png"></a></p>
 <p>الفضيلة الأولى: التسمية وهي أن يقول أول الوضوء: بسم الله الرحمن الرحيم.</p>
 <p> الثانية: أن يتوضأ في موضع طاهر.</p>
 <p>الثالثة: أن يقلل الماء من غير تحديد.</p>

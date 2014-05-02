@@ -23,13 +23,14 @@
 
     </head>
     <body id="home">
-
-
+<?php include "_/components/php/header.php"; ?>
       <div class="jumbotron">
         <div class="container">
+          <div class="row">
+              <div class="col col-lg-12">
          <h1>التراث المالكي</h1>
          <p>مشروع الكتاب الالكتروني</p>
-         <div class="btn-group left">
+         <div class="btn-group">
           <button class="btn btn-default btn-lg dropdown-toggle " type="button" data-toggle="dropdown">الانتقال السريع<span class="caret"></span></button>
           <ul class="dropdown-menu" role="menu">
             <li><a href="book.php">قراءة المتن</a></li>
@@ -40,36 +41,36 @@
           </ul>
         </div>
       </div>
-
     </div>
+</div>
+</div>
 
-
-    <div class="row" id="feature">
-      <div class="col col-xs-6 card" >
+    <div class="row card" id="feature">
+      <div class="col-lg-5 col-sm-6" >
         <h2>التحقيق العلمي</h2>
         <p class="lead">من خلال ضبط النص الأصلي ضبطا دقيقا، وذلك بمقارنة النسخ المطبوعة من الكتاب بعضها ببعض، لمعرفة مواضع الخلل</p>
       </div>
-      <div class="col-xs-6">
-        <img class="img-responsive card" src="images/poetryimg.jpg" alt="manuscript">
+      <div class="col-lg-5 col-lg-offset-2 col-sm-6">
+        <img class="img-responsive" src="images/poetryimg.jpg" alt="manuscript">
       </div>
     </div>
     <hr/>
-    <div class="row">
-      <div class="col col-xs-6  col-xs-push-6 card">
+    <div class="row card">
+      <div class="col-lg-5 col-sm-6">
         <h2>استخدام الوسائل الحديثة</h2>
         <p class="lead">وذلك من خلال الاعتماد على تقنيات الويب وأسلوب التصميم العصري للحصول على تجربة قراءة مريحة للقارئ سواء كان يتصفح الموقع على جهاز الحساوب المكتبي أو الحاسوب اللوحي أو حتى الهاتف النقال</p>
       </div>
-      <div class="col-xs-6  col-xs-pull-6 card">
+      <div class="col-lg-5 col-lg-offset-2 col-sm-6">
         <img class="img-responsive" src="images/ebook.jpg" alt="technology">
       </div>
     </div>
     <hr/>
-    <div class="row">
-      <div class="col-xs-6 card">
+    <div class="row card">
+      <div class="col-lg-5 col-sm-6">
         <h2>المحافظة على التراث</h2>
         <p class="lead">الحرص على الاحتفاظ بالهوية الأصلية لكتب التراث وهيبتها وبالوقت نفسه إدخال لمسات فنية هدفها إظهار بعض المعلومات التي قد تشكل على المتعلم من خلال رسومات وخرائط ذهنية وغيرها من الوسائل التوضيحية</p>
       </div>
-      <div class="col-xs-6 card">
+      <div class="col-lg-5 col-lg-offset-2 col-sm-6">
         <img class="img-responsive" src="images/scroll.jpg" alt="scrolls">
       </div>
     </div>

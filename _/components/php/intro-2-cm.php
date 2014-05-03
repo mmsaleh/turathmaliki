@@ -1,4 +1,21 @@
-<h2>ﻛﺘﺎﺏ ﺃﻡ اﻟﻘﻮاﻋﺪ، ﻭﻣﺎ اﻧﻄﻮﺕ ﻋﻠﻴﻪ ﻣﻦ اﻟﻌﻘﺎﺋﺪ</h2>
+<h3>ﻛﺘﺎﺏ ﺃﻡ اﻟﻘﻮاﻋﺪ، ﻭﻣﺎ اﻧﻄﻮﺕ ﻋﻠﻴﻪ ﻣﻦ اﻟﻌﻘﺎﺋﺪ <a  data-toggle="modal" data-target="#audio1-2"><img src="images/speaker.png"></a></h3>
+<!-- Modal -->
+<div class="modal fade" id="audio1-2" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+      </div>
+        <h4 class="modal-title" id="myModalLabel">أم القواعد</h4>
+      <div class="modal-body">
+        <audio src="" preload="auto" />
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">إغلاق</button>
+      </div>
+    </div>
+  </div>
+</div>
      <p>ﺃﻡ اﻟﻘﻮاﻋﺪ: ﻫﻲ ﺷﻬﺎﺩﺗﻨﺎ، ﻻ ﺇﻟﻪ ﺇﻻ اﻟﻠﻪ ﻣﺤﻤﺪ ﺭﺳﻮﻝ اﻟﻠﻪ، ﺛﻢ ﻗﺎﻝ:</p>
       <table  class="table table-bordered table-striped table-hover">
        <tr>

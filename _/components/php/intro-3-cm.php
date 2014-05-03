@@ -1,4 +1,21 @@
-<h2>ﻣﻘﺪﻣﺔ ﻣﻦ اﻷﺻﻮﻝ ﻣﻌﻴﻨﺔ ﻓﻲ ﻓﺮﻭﻋﻬﺎ ﻋﻠﻰ اﻟﻮﺻﻮﻝ</h2>
+<h3>ﻣﻘﺪﻣﺔ ﻣﻦ اﻷﺻﻮﻝ ﻣﻌﻴﻨﺔ ﻓﻲ ﻓﺮﻭﻋﻬﺎ ﻋﻠﻰ اﻟﻮﺻﻮﻝ <a  data-toggle="modal" data-target="#audio1-3"><img src="images/speaker.png"></a></h3>
+<!-- Modal -->
+<div class="modal fade" id="audio1-3" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+      </div>
+        <h4 class="modal-title" id="myModalLabel">مقدمة في الأصول</h4>
+      <div class="modal-body">
+        <audio src="" preload="auto" />
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">إغلاق</button>
+      </div>
+    </div>
+  </div>
+</div>
      <p>ﺃﻱ ﻫﺬﻩ اﻟﻤﻘﺪﻣﺔ ﻣﻦ ﺃﺻﻮﻝ اﻟﻔﻘﻪ، ﻭﻣﻌﻴﻨﺔ ﻟﻠﻄﺎﻟﺐ ﻋﻠﻰ اﻟﺘﻮﺻﻞ ﺇﻟﻰ ﻣﻌﺮﻓﺔ ﺃﺣﻜﺎﻡ اﻟﻔﺮﻭﻉ اﻟﻮاﺟﺒﺔ، ﻭاﻟﻤﺤﺮﻣﺔ، ﻭاﻟﻤﻜﺮﻭﻫﺔ، ﻭاﻟﻤﻨﺪﻭﺑﺔ، ﻭاﻟﺠﺎﺋﺰﺓ. ﺛﻢ ﻗﺎﻝ : </p>
       <table  class="table table-bordered table-striped table-hover">
        <tr>

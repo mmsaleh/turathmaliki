@@ -1,5 +1,23 @@
 
-<h3>ﺧﻄﺒﺔ اﻟﻜﺘﺎﺏ</h3>
+<h3>ﺧﻄﺒﺔ اﻟﻜﺘﺎﺏ <a  data-toggle="modal" data-target="#audio1-0"><img src="images/speaker.png"></a></h3>
+
+<!-- Modal -->
+<div class="modal fade" id="audio1-0" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+      </div>
+        <h4 class="modal-title" id="myModalLabel">خطبة الكتاب</h4>
+      <div class="modal-body">
+        <audio src="https://dl.dropboxusercontent.com/u/34752542/%D8%AE%D8%B7%D8%A8%D8%A9%20%D8%A7%D9%84%D9%83%D8%AA%D8%A7%D8%A8.mp3" preload="auto" />
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">إغلاق</button>
+      </div>
+    </div>
+  </div>
+</div>
 <p>اﻟﺤﻤﺪ ﻟﻠﻪ اﻷﺣﺪ اﻟﺼﻤﺪ، اﻟﺬﻱ ﻟﻢ ﻳﻠﺪ ﻭﻟﻢ ﻳﻮﻟﺪ ﻭﻟﻢ ﻳﻜﻦ ﻟﻪ ﻛﻔﻮًا ﺃﺣﺪ، ﻭاﻟﺼﻼﺓ ﻭاﻟﺴﻼﻡ ﻋﻠﻰ ﻣﻮﻻﻧﺎ ﻣﺤﻤﺪ اﻟﻬﺎﺩﻱ ﺇﻟﻰ اﻟﺼﺮاﻁ اﻟﻤﺴﺘﻘﻴﻢ. ﻭﻋﻠﻰ ﺁﻟﻪ ﻭﺃﺻﺤﺎﺑﻪ ﺫﻭﻱ اﻟﻘﺪﺭ اﻟﻔﺨﻴﻢ.
   ﺃﻣﺎ ﺑﻌﺪ: ﻓﻴﻘﻮﻝ اﻟﻌﺒﺪ اﻟﻔﻘﻴﺮ ﺇﻟﻰ اﻟﻠﻪ ﻣﺤﻤﺪ ﺑﻦ ﻋﺒﺪ اﻟﻠﻪ اﻟﻤﺎﻟﻜﻲ، اﻟﻤﻮﻗﺖ ﺑﺎﻟﺤﻀﺮﺓ اﻟﻤﺮاﻛﺸﻴﺔ. 
   <p>ﻫﺬا ﺗﻘﺮﻳﺮ ﻟﻄﻴﻒ، ﻭﺟﻴﺰ ﺷﺮﻳﻒ، ﻋﻠﻰ ﻧﻈﻢ اﻟﻤﺮﺷﺪ اﻟﻤﻌﻴﻦ ﻋﻠﻰ اﻟﻀﺮﻭﺭﻱ ﻣﻦ ﻋﻠﻮﻡ اﻟﺪﻳﻦ، ﻭﺿﻌﺘﻪ ﺗﺒﺼﺮﺓ ﻟﻠﻌﺎﻣﺔ ﻭاﻷﻃﻔﺎﻝ، ﻭﺗﺬﻛﺮﺓ ﻟﻠﺨﺎﺻﺔ ﻣﻦ اﻟﻨﺴﺎء ﻭاﻟﺮﺟﺎﻝ، ﺃﺑﺮَﺯْﺗﻪ ﻓﻲ ﻋﺒﺎﺭﺓ ﺳﻬﻠﺔ، ﻭاﺿﺤﺔ اﻟﻤﻌﻨﻰ ﻭاﻟﻔﻬﻢ ﻭاﻟﻌﻈﺔ، ﻭﺳﻤَّﻴﺘﻪ: </p>

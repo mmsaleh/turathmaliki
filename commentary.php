@@ -29,12 +29,12 @@
       <section class="container">
         <div class="help left">
           <!-- Button trigger modal -->
-          <button class="btn btn-danger btn-sm" data-toggle="modal" data-target="#myModal">
+          <button class="btn btn-danger btn-sm" data-toggle="modal" data-target="#help">
             <h6>المساعدة</h6>
           </button>
 
           <!-- Modal -->
-          <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+          <div class="modal fade" id="help" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
             <div class="modal-dialog">
               <div class="modal-content">
                 <div class="modal-header">
@@ -184,6 +184,8 @@
       <script src="_/js/bootstrap.js"></script>
       <script src="_/js/myscripts.js"></script>
       <script src="_/js/tooltipsy.min.js"></script>
+      <script src="_/audiojs/audio.min.js"></script>
+
       <!-- tooltipsy script-->
       <script>
       $('.hastip').tooltipsy({
@@ -214,5 +216,11 @@
         }
       });
     </script><!-- end tooltip-->
+    <!  audiojs script -->
+    <script>
+  audiojs.events.ready(function() {
+    var as = audiojs.createAll();
+  });
+</script>
   </body>
   </html>

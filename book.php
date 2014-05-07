@@ -27,6 +27,36 @@
       <?php include "_/components/php/header.php"; ?>
       
       <section class="container">
+         <div class="help left">
+          <!-- Button trigger modal -->
+          <button class="btn btn-danger btn-sm" data-toggle="modal" data-target="#help">
+            <h6>المساعدة</h6>
+          </button>
+
+          <!-- Modal -->
+          <div class="modal fade" id="help" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+            <div class="modal-dialog">
+              <div class="modal-content">
+                <div class="modal-header">
+                  <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                  <h4 class="modal-title" id="myModalLabel">دليل الموقع</h4>
+                </div>
+                <div class="modal-body">
+                 <h4>أهلاً بك في موقع التراث المالكي!</h4>
+                  <div class="media">
+                        <img class="media-object pull-left" src="images/speaker.png" alt="audio">
+                    <div class="media-body">
+                        <p class="media-heading">انقر على هذه الأيقونة للاستماع إلى الأبيات</p>
+                     </div>
+                  </div>
+                </div>
+                <div class="modal-footer">
+                  <button type="button" class="btn btn-default" data-dismiss="modal">إغلاق</button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
       <div class="content row">
         <section class="col col-xs-8 col-xs-offset-2" >
               <div class="chapter" id="introduction">

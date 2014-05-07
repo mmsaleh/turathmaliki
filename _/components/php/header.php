@@ -15,7 +15,13 @@
           <div class="navbar-collapse collapse">
             <ul class="nav navbar-nav">
 	             <li><a href="index.php">الرئيسية</a></li>
-        		<li><a href="aboutproject.php">حول الكتاب</a></li>
+        		<li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown"  href="aboutproject.php">حول الموقع<span class="caret"></span></a>
+              <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu">
+                              <li><a tabindex="-1" href="aboutproject.php">التعريف بالمشروع</a></li>
+                              <li><a tabindex="-1" href="about.php">منهج التحقيق</a></li>
+                              <li><a tabindex="-1" href="contact.php">اتصل بنا</a></li>
+                            </ul>
+            </li>
         		<li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="book.php">المتن   <span class="caret"></span></a>
                           <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu">
                               <li><a tabindex="-1" href="book.php">المرشد المعين على الضروري من علوم الدين</a></li>

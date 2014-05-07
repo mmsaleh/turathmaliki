@@ -27,17 +27,17 @@
       <div class="jumbotron">
         <div class="container">
           <div class="row">
-              <div class="col col-lg-12">
+              <div class="col col-lg-12 text-center">
          <h1>التراث المالكي</h1>
          <p>مشروع الكتاب الالكتروني</p>
          <div class="btn-group">
-          <button class="btn btn-default btn-lg dropdown-toggle " type="button" data-toggle="dropdown">الانتقال السريع<span class="caret"></span></button>
+          <button class="btn btn-default btn-lg dropdown-toggle" type="button" data-toggle="dropdown">الانتقال السريع<span class="caret"></span></button>
           <ul class="dropdown-menu" role="menu">
             <li><a href="book.php">قراءة المتن</a></li>
             <li><a href="commentary.php">قراءة الشرح</a></li>
-            <li><a href="extras.php">الاستماع إلى الصوتيات</a></li>
+            <li><a href="video.php">الشرح المصور</a></li>
             <li class="divider"></li>
-            <li><a href="aboutproject.php">حول الكتاب</a></li>
+            <li><a href="aboutproject.php">حول الموقع</a></li>
           </ul>
         </div>
       </div>
@@ -56,7 +56,7 @@
     </div>
     <hr/>
     <div class="row card">
-      <div class="col-lg-5 col-sm-6">
+      <div class="col-lg-5 col-sm-6 left">
         <h2>استخدام الوسائل الحديثة</h2>
         <p class="lead">وذلك من خلال الاعتماد على تقنيات الويب وأسلوب التصميم العصري للحصول على تجربة قراءة مريحة للقارئ سواء كان يتصفح الموقع على جهاز الحساوب المكتبي أو الحاسوب اللوحي أو حتى الهاتف النقال</p>
       </div>

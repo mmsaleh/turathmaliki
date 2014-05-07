@@ -1,46 +1,80 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <title>حول الكتاب</title>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="_/css/bootstrap.css" rel="stylesheet">
-    <link href="_/css/mystyles.css" rel="stylesheet">
+<head>
+  <title>حول الكتاب</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="_/css/bootstrap.css" rel="stylesheet">
+  <link href="_/css/mystyles.css" rel="stylesheet">
 
-    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+  <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+  <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
       <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
       <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
-    <![endif]-->
+      <![endif]-->
 
-     <!--favicons-->
-<link rel="apple-touch-icon-precomposed" sizes="144x144" href="ico/apple-touch-icon-144-precomposed.png">
-<link rel="apple-touch-icon-precomposed" sizes="114x114" href="ico/apple-touch-icon-114-precomposed.png">
-<link rel="apple-touch-icon-precomposed" sizes="72x72" href="ico/apple-touch-icon-72-precomposed.png">
-<link rel="apple-touch-icon-precomposed" href="ico/apple-touch-icon-57-precomposed.png">
-<link rel="shortcut icon" href="ico/favicon.png">
+      <!--favicons-->
+      <link rel="apple-touch-icon-precomposed" sizes="144x144" href="ico/apple-touch-icon-144-precomposed.png">
+      <link rel="apple-touch-icon-precomposed" sizes="114x114" href="ico/apple-touch-icon-114-precomposed.png">
+      <link rel="apple-touch-icon-precomposed" sizes="72x72" href="ico/apple-touch-icon-72-precomposed.png">
+      <link rel="apple-touch-icon-precomposed" href="ico/apple-touch-icon-57-precomposed.png">
+      <link rel="shortcut icon" href="ico/favicon.png">
 
-  </head>
-  <body id="about">
+    </head>
+    <body id="about">
       <?php include "_/components/php/header.php"; ?>
       <section class="container">
-            <div class="content row">
-                <section class="main col col-lg-8">
-
+        <section class="container">
+          <div class="content row">
+            <section class="bookchapters col col-xs-8 col-xs-offset-2" >
+              <div class="chapter">
+                <h2>منهج التحقيق</h2>
+                <p>الحمد لله رب العالمية والصلاة والسلام على سيد الأولين والآخرين سيدنا محمد وعلى آله وصحبه أجمعين، أما بعد.</p>
+                <p>فإن الأمة الإسلامية قد اهتمت بتدريس العلوم الشرعية المختلفة عبر القرون المتطاولة، وكان لها في هذا المضمار القدح المعلى، حيث انتشرت المختصرات والمطولات، فدونت المختصرات لتحفظ، وعلى مستويات عدة، من المبتديء إلى المتوسط، إلى المتقدم، وبسطت هذه المختصرات لتفهم، فتعددت الغايات والأهداف تبعا لتعدد مستويات التدريس، وكان للطريقة النصية في التدريس دورُها في تضافر العلوم المختلفة: من بلاغة، ونحو، وصرف، وأصول فقه في خدمة النص، في نموذج متميز من تكامل العلوم اللغوية والشرعية التي تخدم النص العلمي، والمتن الذي بين أيدينا هو من تلك النصوص التي درجت الأمة على دراستها وتدريسها للمبتدئين في الفقه المالكي، في أهم ما يعني المسلم من مقدمة العقيدة والأصول، ثم العبادات والسلوك، جمعت معا ليعرف المسلم ما يسعه جهله، مما يمكن أن يصطلح عليه اليوم الثقافة الإسلامية العامة.</p>
+                <h2>الصعوبات أثناء تدريس المتن:</h2>
+                <p>تتلخص الصعوبات التي برزت أثناء تدريس النص، عدم وجود نسخة واحدة دقيقة في ضبط المتن نظما وشرحا، حيث كثر السَّقَط والزيادة في النسخ المختلفة، وإدراج الشرح ضمن النظم حينا، وحذف جزء من النظم وإدراجه في الشرح أحيانا أخرى، ناهيك عن كثير من حالات التصحيف والتحريف في النسخ المختلفة.</p>
+                <p>وقد تم التغلب على هذه الصعوبات، بعلم العروض، والمقابلة مع النسخ المختلفة للوصول إلى نسخة متكاملة تجمع الصواب من الجميع، وتستثني الخطأ من الجميع، ولم أكن حريصا على عزو الخطأ والصواب لنسخة منها، ولكنني حرصت فقط على أن أَخرُج بنص صحيح سليم من التصحيف والتحريف والزيادة والسَّقَط، يصلح أن يعتمد عليه الطلاب لدراسة الكتاب محلِّ الدراسة، ورغبة في الاختصار وعدمِ التطويل على الدارس في أمور ليست محلَّ اهتمامه، بقدر اهتمامه بنسخة دقيقة وصحيحة، ولكن كنت أشير إلى بعض الاختلافات التي يمكن أن تكون محتملة الصواب، أو فيها إضافة في المعنى.</p>
+                <p>ومما تجدر ملاحظته أثناء قراءة النص حذف همزة القطع في بعض المواضع وعدم كتابتها إشارة إلى أنها لا تقرأ، وإن كانت الصناعة الإملائية تفرض كتابتها، ولكن النظم اقتضى حذفها للوزن.</p>
+                <h2>النسخ التي اعتمدت عليها في تحرير النص:</h2>
+                <p>أما النسخ التي اعتمدت علىيها في تصحيح النظم وشرحه، فهي:</p>
+                <ol>
+                  <li>  المراكشي، محمد بن محمد بن المبارك، الحبل المتين على نظم المرشد المعين، الدار البيضاء، دار الرشاد الحديثة، 1423ه/2007م. وتوجد نسخة أخرى من الشرح نفسه، طبعة مغربية، دون وجود أي بيانات نشر، رمزت لها بالحبل المتين 1.</li>
+                  <li>  كنُّون، سيدي عبد الصمد، مورد الشارعين في قراءة المرشد المعين، مصر، الناشر: الشارح نفسه، ط1، 1337ه.</li>
+                  <li>  الكافي، محمد بن يوسف، النور المبين على المرشد المعين، الناشر: المؤلف نفسه، طباعة: دار إحياء الكتب العربية، ط1، 1341/1922.</li>
+                  <li> أحمد بن البشير القلاوي الشنقيطي، مفيد العباد سواء العاكف فيه والبادي على  على شرح المرشد المعين في الضروري من علوم الدين، أبو ظبي، المجمع الثقافي، 1999.</li>
+                  <li> الطرابلسي، علي ابن عبد الصادق، إرشاد المريدين لفهم معاني المرشد المعين على الضروري من علوم الدين، تحقيق د. السائح علي حسين، الناشر: جمعية الدعوة الإسلامية العالمية، ط1، 2001م.</li>
+                  <li>  المختار بن العربي، العَرف الناشر في شرح وأدلة فقه متن ابن عاشر، بيروت، دار ابن حزم، ط1، 1425/2004.</li>
+                  <li> العمراوي، امحمد، المبين عن أدلة المرشد المعين، د.ن، ط1، 1427/2006.</li>
+                  <li> أحمد بن البشير القلاوي الشنقيطي، مفيد العباد سواء العاكف فيه والبادي على  على شرح المرشد المعين في الضروري من علوم الدين، أبو ظبي، المجمع الثقافي، 1999.</li>
+                  <li>  الطهطاوي، أحمد مصطفى قاسم، شرح منظومة ابن عاشر في الفقه المالكي، القاهرة، دار الفضيلة، د.ت.</li>
+                  <li> ميارة، محمد بن أحمد بن محمد، الدر الثمين والمورد المعين، على المرشد المعين، القاهرة، مصطفى البابي الحلبي، 1373/1954.</li>
+                  <li>ميارة، محمد بن أحمد بن محمد، الدر الثمين والمورد المعين، على المرشد المعين، بيروت المكتبة الثقافية، د.ت، وهي نسخة مصورة عن النسخة التي نشرها الحلبي السابقة.</li>
+                  <li> متن ابن عاشر في مذهب مالك، الجزائر، رودوسي قدور بن مراد، د.ت.</li>
+                  <li> متن ابن عاشر في مذهب مالك، القاهرة، مكتبة القاهرة، د.ت.</li>
+                  <li> متن ابن عاشر في مذهب مالك، نسخة مخطوطة في المكتبة الأزهرية تحت رقم: 319359، وهي غير تامة، حتى البيت رقم 190، من أصل 317 بيتا، وهي إلى عند قول الناظم:</li>
+                  <table>
+                    <tr>
+                      <td>في كل خمسة جمال جذعه   </td>
+                      <td>***</td>
+                      <td> من غنم بنت المخاض مقنعة</td>
+                    </tr>
+                  </table>
+                </ol>
+                <div class="left lead">
+                  <strong><p>المحقق</p>
+                    <p>الدكتور وليد شاويش</p><strong></div>
+                  </div>
                 </section><!-- main -->
-                <section class="sidebar col col-lg-4">
-              
-                </section><!-- sidebar -->
-          </div><!-- content -->
-      </section><!-- container -->
-      
-      <?php include "_/components/php/footer.php"; ?>
+              </div><!-- content -->
+            </section><!-- container -->
 
-    <!-- scripts  -->
-    <script src="_/js/jquery.js"></script>
-    <script src="_/js/bootstrap.js"></script>
-     <script src="_/js/myscripts.js"></script>
+            <?php include "_/components/php/footer.php"; ?>
 
-  </body>
-</html>
+            <!-- scripts  -->
+            <script src="_/js/jquery.js"></script>
+            <script src="_/js/bootstrap.js"></script>
+            <script src="_/js/myscripts.js"></script>
+
+          </body>
+          </html>

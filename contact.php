@@ -27,12 +27,45 @@
       
       <section class="container">
             <div class="content row">
-                <section class="main col col-lg-8">
+              <div class="panel">
+                <h2>رأيكم يهمنا! يمكنكم التواصل معنا من خلال تعبئة هذا النموذج</h2>
+              </div>
+                <div class="panel-body">
+            <form name="contactform" method="post" action="mailer.php" class="form-horizontal" role="form">
+              <div class="form-group">
+                <label for="inputName" class="col-lg-2 control-label">الاسم</label>
+                <div class="col-lg-10">
+                  <input type="text" class="form-control" id="inputName" name="inputName" placeholder="اكتب اسمك هنا">
+                </div>
+              </div>
+              <div class="form-group">
+                <label for="inputEmail1" class="col-lg-2 control-label">الإيميل</label>
+                <div class="col-lg-10">
+                  <input type="text" class="form-control" id="inputEmail" name="inputEmail" placeholder="بريدك الالكتروني">
+                </div>
+              </div>
+              <div class="form-group">
+                <label for="inputSubject" class="col-lg-2 control-label">الموضوع</label>
+                <div class="col-lg-10">
+                  <input type="text" class="form-control" id="inputSubject" name="inputSubject" placeholder="موضوع الرسالة">
+                </div>
+              </div>
+              <div class="form-group">
+                <label for="inputPassword1" class="col-lg-2 control-label">الرسالة</label>
+                <div class="col-lg-10">
+                  <textarea class="form-control" rows="4" id="inputMessage" name="inputMessage" placeholder="نص الرسالة"></textarea>
+                </div>
+              </div>
+              <div class="form-group">
+                <div class="col-lg-offset-2 col-lg-10">
+                  <button type="submit" class="btn btn-danger left">
+                    إرسال
+                  </button>
+                </div>
+              </div>
+            </form>
 
-                </section><!-- main -->
-                <section class="sidebar col col-lg-4">
-              
-                </section><!-- sidebar -->
+          </div>
           </div><!-- content -->
       </section><!-- container -->
       

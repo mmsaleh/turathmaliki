@@ -1,5 +1,22 @@
 
-<h2>المرشد المعين على الضروري من علوم الدين</h2>
+<h3>المرشد المعين على الضروري من علوم الدين <a  data-toggle="modal" data-target="#verses1-5"><img src="images/speaker.png"></a></h3>
+<!-- Modal -->
+<div class="modal fade" id="verses1-5" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+      </div>
+        <h4 class="modal-title" id="myModalLabel">المرشد المعين على الضروري من علوم الدين</h4>
+      <div class="modal-body">
+        <audio src="https://dl.dropboxusercontent.com/u/34752542/ibnashir%20verses%20introduction/verses1-5.mp3" preload="auto" />
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">إغلاق</button>
+      </div>
+    </div>
+  </div>
+</div>
 <table class="table table-bordered table-striped table-hover table-responsive">
 	<tr>
 		<td>1</td>

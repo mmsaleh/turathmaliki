@@ -166,15 +166,13 @@
     <script src="_/js/jquery.js"></script>
     <script src="_/js/bootstrap.js"></script>
      <script src="_/js/myscripts.js"></script>
-      <script src="_/js/jquery.fittext.js"></script>
-      <script src="_/js/jquery.ubaplayer.min.js"></script>
+        <script src="_/audiojs/audio.min.js"></script>
 
-  <!-- ubaplayer script -->
-  <script>
-    $(function(){
-        //basic config
-        $("#ubaplayer").ubaPlayer();
-    });
+  <!--audiojs script -->
+    <script>
+  audiojs.events.ready(function() {
+    var as = audiojs.createAll();
+  });
 </script>
   </body>
 </html>

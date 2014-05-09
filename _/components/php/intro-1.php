@@ -1,4 +1,20 @@
-<h3>مقدمة لكتاب الاعتقاد معينة لقارئها على المراد</h3>
+<h3>مقدمة لكتاب الاعتقاد معينة لقارئها على المراد <a  data-toggle="modal" data-target="#verses6-13"><img src="images/speaker.png"></a></h3>
+<div class="modal fade" id="verses6-13" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+      </div>
+        <h4 class="modal-title" id="myModalLabel">مقدمة لكتاب الاعتقاد</h4>
+      <div class="modal-body">
+        <audio src="https://dl.dropboxusercontent.com/u/34752542/ibnashir%20verses%20introduction/verses6-13.mp3" preload="auto" />
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">إغلاق</button>
+      </div>
+    </div>
+  </div>
+</div>
 <table class="table table-bordered table-striped table-hover">
 	<tr>
 		<td>6</td>

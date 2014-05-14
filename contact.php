@@ -33,22 +33,22 @@
             <h3>من نحن</h3>
             <div>
               <div>
-                <h4>الإشراف الأكاديمي</h4>
-                <p>الدكتور وليد شاويش</p>
+                <h4 class="lead text-danger">الإشراف الأكاديمي</h4>
+                <p class="lead">الدكتور وليد شاويش</p>
                 <p>أستاذ الفقه وأصوله في جامعة العلوم الإسلامية العالمية - الأردن</p>
 
-                <a href="https://www.facebook.com/walid.shawish.7"><i class="fa fa-facebook fa-border fa-2x"></i></a>
-                <a href="jo.linkedin.com/pub/walid-shawish2/32/252/aa6"><i class="fa fa-linkedin fa-border fa-2x"></i></a>
-                <a href="https://plus.google.com/u/0/113139196011109194341/about"><i class="fa fa-google-plus fa-border fa-2x"></i></a>
-                <a href="https://twitter.com/WalidShawish"><i class="fa fa-twitter fa-border fa-2x"></i></a>
+                <a href="https://www.facebook.com/walid.shawish.7"><i class="fa fa-facebook fa-border fa-2x text-danger"></i></a>
+                <a href="jo.linkedin.com/pub/walid-shawish2/32/252/aa6"><i class="fa fa-linkedin fa-border fa-2x text-danger"></i></a>
+                <a href="https://plus.google.com/u/0/113139196011109194341/about"><i class="fa fa-google-plus fa-border fa-2x text-danger"></i></a>
+                <a href="https://twitter.com/WalidShawish"><i class="fa fa-twitter fa-border fa-2x text-danger"></i></a>
 
               </div>
               <div>
-                <h4>تصميم وتطوير</h4>
-                <p>ميادة صالح</p>
+                <h4 class="lead text-danger">تصميم وتطوير</h4>
+                <p class="lead">ميادة صالح</p>
                 
-                <a href="https://plus.google.com/u/0/104726764546478746944/about"><i class="fa fa-google-plus fa-border fa-2x"></i></a>
-                <a href="https://twitter.com/MayadaSaleh"><i class="fa fa-twitter fa-border fa-2x"></i></a>
+                <a href="https://plus.google.com/u/0/104726764546478746944/about"><i class="fa fa-google-plus fa-border fa-2x text-danger"></i></a>
+                <a href="https://twitter.com/MayadaSaleh"><i class="fa fa-twitter fa-border fa-2x text-danger"></i></a>
 
               </div>
             </div>

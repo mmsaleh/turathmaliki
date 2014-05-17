@@ -26,26 +26,26 @@
                           <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu">
                               <li><a tabindex="-1" href="book.php">المرشد المعين على الضروري من علوم الدين</a></li>
                               <li class="divider"></li>
-                              <li ><a tabindex="-1" href="#introduction">المقدمة</a></li>
-                              <li><a tabindex="-1" href="#chapter1">كتاب الطهارة</a></li>
-                              <li><a tabindex="-1" href="#chapter2">كتاب الصلاة</a></li>
-                              <li><a tabindex="-1" href="#chapter3">كتاب الزكاة</a></li>
-                              <li><a tabindex="-1" href="#chapter4">كتاب الصيام</a></li>
-                              <li><a tabindex="-1" href="#chapter5">كتاب الحج</a></li>
-                              <li><a tabindex="-1" href="#chapter6">كتاب الزهد</a></li>
+                              <li ><a tabindex="-1" href="book.php#introduction">المقدمة</a></li>
+                              <li><a tabindex="-1" href="book.php#chapter1">كتاب الطهارة</a></li>
+                              <li><a tabindex="-1" href="book.php#chapter2">كتاب الصلاة</a></li>
+                              <li><a tabindex="-1" href="book.php#chapter3">كتاب الزكاة</a></li>
+                              <li><a tabindex="-1" href="book.php#chapter4">كتاب الصيام</a></li>
+                              <li><a tabindex="-1" href="book.php#chapter5">كتاب الحج</a></li>
+                              <li><a tabindex="-1" href="book.php#chapter6">كتاب الزهد</a></li>
                             </ul> 
                     </li>
           		<li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="commentary.php" >الشرح     <span class="caret"></span></a>
                             <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu">
                               <li><a tabindex="-1" href="commentary.php">الحبل المتين على المرشد المعين</a></li>
                               <li class="divider"></li>
-                              <li ><a tabindex="-1" href="#introduction">المقدمة</a></li>
-                              <li><a tabindex="-1" href="#chapter1">كتاب الطهارة</a></li>
-                              <li><a tabindex="-1" href="#chapter2">كتاب الصلاة</a></li>
-                              <li><a tabindex="-1" href="#chapter3">كتاب الزكاة</a></li>
-                              <li><a tabindex="-1" href="#chapter4">كتاب الصيام</a></li>
-                              <li><a tabindex="-1" href="#chapter5">كتاب الحج</a></li>
-                              <li><a tabindex="-1" href="#chapter6">كتاب الزهد</a></li>
+                              <li ><a tabindex="-1" href="commentary.php#introduction">المقدمة</a></li>
+                              <li><a tabindex="-1" href="commentary.php#chapter1">كتاب الطهارة</a></li>
+                              <li><a tabindex="-1" href="commentary.php#chapter2">كتاب الصلاة</a></li>
+                              <li><a tabindex="-1" href="commentary.php#chapter3">كتاب الزكاة</a></li>
+                              <li><a tabindex="-1" href="commentary.php#chapter4">كتاب الصيام</a></li>
+                              <li><a tabindex="-1" href="commentary.php#chapter5">كتاب الحج</a></li>
+                              <li><a tabindex="-1" href="commentary.php#chapter6">كتاب الزهد</a></li>
                             </ul> 
                     </li>
           		<li><a href="video.php">المرئيات</a></li>

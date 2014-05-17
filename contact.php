@@ -47,7 +47,7 @@
                 <h4 class="lead text-danger">تصميم وتطوير</h4>
                 <p class="lead">ميادة صالح</p>
                 
-                <a href="https://plus.google.com/u/0/104726764546478746944/about"><i class="fa fa-google-plus fa-border fa-2x text-danger"></i></a>
+                <a href="https://www.google.com/+mayadasaleh"><i class="fa fa-google-plus fa-border fa-2x text-danger"></i></a>
                 <a href="https://twitter.com/MayadaSaleh"><i class="fa fa-twitter fa-border fa-2x text-danger"></i></a>
 
               </div>

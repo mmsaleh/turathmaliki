@@ -6,6 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link href="_/css/bootstrap.css" rel="stylesheet">
   <link href="_/css/mystyles.css" rel="stylesheet">
+  <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
 
   <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -44,7 +45,7 @@
     </div>
 </div>
 </div>
-
+<section>
     <div class="row card" id="feature">
       <div class="col-lg-5 col-sm-6" >
         <h2>التحقيق العلمي</h2>
@@ -74,9 +75,9 @@
         <img class="img-responsive" src="images/scroll.jpg" alt="scrolls">
       </div>
     </div>
-    <hr>
-
-    <?php include "_/components/php/footer.php"; ?>
+  
+</section>
+    <?php include "_/components/php/footer2.php"; ?>
     <!-- scripts  -->
     <script src="_/js/jquery.js"></script>
     <script src="_/js/bootstrap.js"></script>

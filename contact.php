@@ -29,7 +29,7 @@
       
       <section class="container">
         <div class="content row card">
-          <section class="sidebar col col-lg-4 panel">
+          <section class="sidebar col col-md-4 panel">
             <h3>من نحن</h3>
             <div>
               <div>
@@ -53,7 +53,7 @@
               </div>
             </div>
           </section><!-- sidebar -->
-          <div class="main col col-lg-8">
+          <div class="main col col-md-8">
             <h3>رأيكم يهمنا! يمكنكم التواصل معنا من خلال تعبئة هذا النموذج</h3>
             <div class="panel-body">
               <form name="contactform" method="post" action="mailer.php" class="form-horizontal" role="form">

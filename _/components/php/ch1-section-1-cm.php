@@ -71,6 +71,7 @@
 <!-- Modal map2-2 -->
 	<div class="modal fade" id="map2-2" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
 		<div class="modal-content map">
+			
 			<div class="container">
 				<img src="images/2-2.jpg" class="img-responsive">
 			</div>

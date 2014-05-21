@@ -54,42 +54,26 @@
             </div>
           </section><!-- sidebar -->
           <div class="main col col-md-8">
-            <h3>رأيكم يهمنا! يمكنكم التواصل معنا من خلال تعبئة هذا النموذج</h3>
-            <div class="panel-body">
-              <form name="contactform" method="post" action="mailer.php" class="form-horizontal" role="form">
-                <div class="form-group">
-                  <label for="inputName" class="col-lg-2 control-label">الاسم</label>
-                  <div class="col-lg-10">
-                    <input type="text" class="form-control" id="inputName" name="inputName" placeholder="اكتب اسمك هنا">
-                  </div>
-                </div>
-                <div class="form-group">
-                  <label for="inputEmail1" class="col-lg-2 control-label">الإيميل</label>
-                  <div class="col-lg-10">
-                    <input type="text" class="form-control" id="inputEmail" name="inputEmail" placeholder="بريدك الالكتروني">
-                  </div>
-                </div>
-                <div class="form-group">
-                  <label for="inputSubject" class="col-lg-2 control-label">الموضوع</label>
-                  <div class="col-lg-10">
-                    <input type="text" class="form-control" id="inputSubject" name="inputSubject" placeholder="موضوع الرسالة">
-                  </div>
-                </div>
-                <div class="form-group">
-                  <label for="inputPassword1" class="col-lg-2 control-label">الرسالة</label>
-                  <div class="col-lg-10">
-                    <textarea class="form-control" rows="4" id="inputMessage" name="inputMessage" placeholder="نص الرسالة"></textarea>
-                  </div>
-                </div>
-                <div class="form-group">
-                  <div class="col-lg-offset-2 col-lg-10">
-                    <button type="submit" class="btn btn-danger left">
-                      إرسال
-                    </button>
-                  </div>
-                </div>
-              </form>
-            </div>
+           <div id="wufoo-my8wll81nkyx0r">
+Fill out my <a href="https://msaleh.wufoo.com/forms/my8wll81nkyx0r">online form</a>.
+</div>
+<div id="wuf-adv" style="font-family:inherit;font-size: small;color:#a7a7a7;text-align:center;display:block;">Online contact and registration forms from <a href="http://www.wufoo.com">Wufoo</a>.</div>
+<script type="text/javascript">var my8wll81nkyx0r;(function(d, t) {
+var s = d.createElement(t), options = {
+'userName':'msaleh',
+'formHash':'my8wll81nkyx0r',
+'autoResize':true,
+'height':'561',
+'async':true,
+'host':'wufoo.com',
+'header':'show',
+'ssl':true};
+s.src = ('https:' == d.location.protocol ? 'https://' : 'http://') + 'wufoo.com/scripts/embed/form.js';
+s.onload = s.onreadystatechange = function() {
+var rs = this.readyState; if (rs) if (rs != 'complete') if (rs != 'loaded') return;
+try { my8wll81nkyx0r = new WufooForm();my8wll81nkyx0r.initialize(options);my8wll81nkyx0r.display(); } catch (e) {}};
+var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s, scr);
+})(document, 'script');</script>
           </div>
         </div><!-- content -->
       </section><!-- container -->
